@@ -4,8 +4,6 @@ NAMA: ABDUL YUSUF
 
 NIM : 2330521010
 
-![tampilan home](https://i.imgur.com/cgP1fmm.png)
-
 ![tampilan awal](https://i.imgur.com/fBKAavq.png)
 
 ![kemapuan](https://i.imgur.com/xOdVj3a.png)
