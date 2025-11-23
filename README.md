@@ -1,3 +1,10 @@
+#UTS BIKIN CV#
+
+NAMA: ABDUL YUSUF    
+
+NIM : 2330521010
+
+![tampilan home](https://i.imgur.com/cgP1fmm.png)
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
