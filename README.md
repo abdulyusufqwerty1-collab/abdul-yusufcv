@@ -3,10 +3,17 @@
 NAMA: ABDUL YUSUF    
 
 NIM : 2330521010
+
+
+
 TAMPILAN CURRICULUM VITAE
 ![tampilan awal](https://i.imgur.com/fBKAavq.png)
+
+
 SKILL & KEMAMPUAN
 ![kemapuan](https://i.imgur.com/xOdVj3a.png)
+
+
 HOBI 
 ![hobi](https://i.imgur.com/xOdVj3a.png)
 
